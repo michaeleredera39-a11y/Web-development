@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>My Class Schedule Page</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Class Schedule</h1>
+    </header>
+
+  
+        <h2>  School (Ordered List)</h2>
+        <ol>
+    
+    <li>Attending Classes</li>
+    <li>Doing Homework</li>
+    <li>Taking Exams</li>
+    <li>Participating in Extracurricular Activities</li>
+  
+</ol>
+
+        </ol>
+
+        <h2>Subjects (Unordered List)</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>Discrete Structure</li>
+            <li>Basic Electronics</li>
+        </ul>
+
+        <h2>Student Grade Table</h2>
+        <table>
+            <thead>
+                <tr>
+                  
+                  <table border="1" cellpadding="8" cellspacing="0">
+                    
+                    <th>Name</th>
+                    <th>Subject</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            
+            <tbody>
+                <tr>
+                    <td>Eredera Michael Angelo F.</td>
+                    <td>Web Development</td>
+                    <td>2.3</td>
+                </tr>
+                <tr>
+                    <td>Eredera Michael Angelo F.</td>
+                    <td>Discrete Structure</td>
+                    <td>2.9</td>
+                </tr>
+                
+                <tr>
+                    <td>Eredera Michael Angelo F.</td>
+                    <td>Fatfit 2</td>
+                    <td>2.3</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th colspan="2">Average Grade</th>
+                    <th>2.1</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <br> <br> <br>
+    <p>Submitted by. Michael Angelo Eredera</p>
+</body>
+</html>
+
+ 
